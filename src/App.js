@@ -15,6 +15,7 @@ function App() {
       <ToogleLight/>
       <ToogleLight/>
       <ToogleLight/>
+      bruh
     </div>
   );
 }
